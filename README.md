@@ -1,2 +1,3 @@
-# financial_product
-Analysing User Engagement and Retention of a financial product.
+# User Engagement and Retention Analysis for a financial product.
+
+The source data and the data produced are stored in the "data" folder.
